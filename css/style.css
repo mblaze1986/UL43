@@ -686,17 +686,17 @@ body.no-scroll {
   }
 }
 .portfolio__col {
-  flex-basis: 33.33333%;
+  width: 33.33333%;
   padding: 1.5rem;
 }
 @media (max-width: 767px) {
   .portfolio__col {
-    flex-basis: 50%;
+    width: 50%;
   }
 }
 @media (max-width: 575px) {
   .portfolio__col {
-    flex-basis: 100%;
+    width: 100%;
   }
 }
 .portfolio__item {
